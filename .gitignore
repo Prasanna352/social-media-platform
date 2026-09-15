@@ -1,0 +1,21 @@
+# Spring Boot
+socialmedia_backend/target/
+
+# Java / STS
+*.class
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+application-local.properties
+
+# React
+socialmedia-frontend/node_modules/
+socialmedia-frontend/dist/
